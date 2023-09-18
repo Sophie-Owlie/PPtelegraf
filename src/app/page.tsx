@@ -17,24 +17,24 @@ export default function Home() {
       <div className="space-y-5">
         <p className="text-xl text-center italic">Base line alignment problem except 16px</p>
         <p className="flex justify-center">
-          <span className="text-[15px]">15px: Lorem ispum</span>
-          <span className="text-[15px] font-medium">Lorem ispum medium</span>
-          <span className="text-[15px]">Lorem ispum</span>
+          <span className="text-[15px]">15px: Lorem ipsum</span>
+          <span className="text-[15px] font-medium">Lorem ipsum medium</span>
+          <span className="text-[15px]">Lorem ipsum</span>
         </p>
         <p className="flex justify-center">
-          <span>16px: Lorem ispum</span>
-          <span className="font-medium">Lorem ispum medium</span>
-          <span>Lorem ispum</span>
+          <span>16px: Lorem ipsum</span>
+          <span className="font-medium">Lorem ipsum medium</span>
+          <span>Lorem ipsum</span>
         </p>
         <p className="flex justify-center">
-          <span className="text-[17px]">17px: Lorem ispum</span>
-          <span className="text-[17px] font-medium">Lorem ispum medium</span>
-          <span className="text-[17px]">Lorem ispum</span>
+          <span className="text-[17px]">17px: Lorem ipsum</span>
+          <span className="text-[17px] font-medium">Lorem ipsum medium</span>
+          <span className="text-[17px]">Lorem ipsum</span>
         </p>
         <p className="flex justify-center">
-          <span className="text-[40px]">40px: Lorem ispum</span>
-          <span className="text-[40px] font-medium">Lorem ispum medium</span>
-          <span className="text-[40px]">Lorem ispum</span>
+          <span className="text-[40px]">40px: Lorem ipsum</span>
+          <span className="text-[40px] font-medium">Lorem ipsum medium</span>
+          <span className="text-[40px]">Lorem ipsum</span>
         </p>
       </div>
     </main>
